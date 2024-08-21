@@ -11,3 +11,6 @@ Moving Averages: The implementation and comparison between Simple Moving Average
 LSTM for Stock Prediction: The LSTM model, with its ability to capture long-term dependencies in data, is presented as a more advanced method for predicting stock prices. The step-by-step guide on building, training, and evaluating the LSTM model makes it accessible even to readers who might be new to deep learning.
 
 Evaluation Metrics: Using RMSE and MAPE as metrics provides a clear, quantitative way to compare the performance of different models.
+
+![image](https://github.com/user-attachments/assets/5f1ac7cb-e268-4ec1-86a8-9861e788a090)
+
